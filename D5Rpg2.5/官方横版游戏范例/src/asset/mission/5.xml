@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<npcname>除魔道人</npcname>
+	<nomission>
+		<info>御剑乘风去，除魔天地间！这台词太适合我了。</info>
+	</nomission>
+	
+	<mission>
+		<id>3</id>
+		<type>0</type>
+		<name>战斗测试</name>
+		<info>　　又是D5那小子派你过来的吧，丫的每次有人来看演示都要指到我这里来，其实不就是战斗演示嘛，非要拉上我。</info>
+		<need/>
+		<give type='1' value='3' num='-1'/>
+		<give type='1' value='4' num='1'/>
+	</mission>
+	
+	<mission>
+		<id>4</id>
+		<type>1</type>
+		<name>掌柜照顾</name>
+		<info>　　怪物已经帮你生成好了，美工最近很忙，所以怪物跟你长的一样，凑合着点吧，把他砍了再回来见我。</info>
+		<need/>
+		<need type='0' value='101' num='1'/>
+		<give type='1' value='4' num='-1'/>
+		<give type='1' value='5' num='1'/>
+	</mission>
+	
+	<mission>
+		<id>5</id>
+		<type>0</type>
+		<name>最后一步</name>
+		<info>　　非常不错！现在你可以去找D5了。另外告诉他，别老是让我来召唤怪物，我很忙的。</info>
+		<give type='1' value='5' num='-1'/>
+		<give type='1' value='6' num='1'/>
+	</mission>
+</data>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<npcname>D5Power</npcname>
+	<nomission>
+		<info>其实，我是一个程序员。苦逼的程序员T_T</info>
+	</nomission>
+	
+	<mission>
+		<id>2</id>
+		<type>1</type>
+		<name>我是D5</name>
+		<info>　　嗯，没有自动寻路你都能找到我，果然很厉害。不过，不会打架的程序员不是好美工，你先去跟{#ff9900}除魔道人{/#}聊聊吧，记住，最强大的敌人就是你自己。</info>
+		<need/>
+		<give type='1' value='2' num='-1'/>
+		<give type='1' value='3' num='1'/>
+	</mission>
+	
+	<mission>
+		<id>6</id>
+		<type>1</type>
+		<name>收集羊肉</name>
+		<info>　　伏魔道人又跟你发牢骚了吧。看来我得考虑把剧本改改了。嗯，能做的演示就这么多了。D5RPG是开源免费的，感兴趣的话可以到官网去下载。就这样吧。</info>
+		<need/>
+		<give type='1' value='6' num='-1'/>
+	</mission>
+</data>
